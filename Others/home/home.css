@@ -74,7 +74,7 @@
 }
 .bar1 {
     position: absolute;
-    bottom:350px;
+    bottom:450px;
  
     left: 90px;
     border: solid;
@@ -85,7 +85,7 @@
 }
 .bar2 {
     position: absolute;
-    bottom:350px;
+    bottom:450px;
     left: 140px;
     border: solid;
     border-color: black;
@@ -95,7 +95,7 @@
 }
 .bar3 {
     position: absolute;
-    bottom:350px;
+    bottom:450px;
     left: 190px;
     border: solid;
     border-color: black;
@@ -105,7 +105,7 @@
 }
 .bar4 {
     position: absolute;
-    bottom:350px;
+    bottom:450px;
     left: 240px;
     border: solid;
     border-color: black;
@@ -115,7 +115,7 @@
 }
 .bar5 {
     position: absolute;
-    bottom:350px;
+    bottom:450px;
     left: 290px;
     border: solid;
     border-color: black;
