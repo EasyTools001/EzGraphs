@@ -10,7 +10,7 @@ let fifthNumber ;
 
 setTimeout(() => {
     let audio ;
-audio = new Audio('/Others/audio.mp3') ;
+audio = new Audio('Others/audio.mp3') ;
 audio.play() ;
 }, 1000);
 
